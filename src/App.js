@@ -1,9 +1,9 @@
 
 import './App.css';
-import TextForm from './Components/TextForm.mjs';
-import Navbar from './Components/Navbar.mjs';
+import TextForm from './Components/TextForm.js';
+import Navbar from './Components/Navbar.js';
 import { useState } from 'react';
-import AboutUS from './Components/AboutUS.mjs'
+import AboutUS from './Components/AboutUS.js'
 import { Routes, Route } from "react-router-dom";
 
 
